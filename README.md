@@ -9,5 +9,5 @@
 * Creating a User Interface using Material UI
 * Working with Google Maps API
 * And most importantly fetching data from unlimited sources using RapidAPI
-* Essentially, you'll become the master of working with APIs
+
 
